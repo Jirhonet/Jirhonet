@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Jirhonet - and cute aswell -
-
+- 👋 Hi, I’m @Jirhonet
